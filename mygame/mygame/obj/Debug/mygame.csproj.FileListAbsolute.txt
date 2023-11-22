@@ -1,0 +1,28 @@
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\obj\Debug\mygame.csproj.AssemblyReference.cache
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\obj\Debug\mygame.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\bin\Debug\mygame.exe.config
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\bin\Debug\mygame.exe
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\bin\Debug\mygame.pdb
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\obj\Debug\mygame.exe
+C:\Users\Noah\Desktop\mygame (1)newer (1)\mygame\obj\Debug\mygame.pdb
+C:\Users\Noah\Desktop\mygame\mygame\bin\Debug\mygame.exe.config
+C:\Users\Noah\Desktop\mygame\mygame\bin\Debug\mygame.exe
+C:\Users\Noah\Desktop\mygame\mygame\bin\Debug\mygame.pdb
+C:\Users\Noah\Desktop\mygame\mygame\obj\Debug\mygame.csproj.AssemblyReference.cache
+C:\Users\Noah\Desktop\mygame\mygame\obj\Debug\mygame.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\mygame\mygame\obj\Debug\mygame.exe
+C:\Users\Noah\Desktop\mygame\mygame\obj\Debug\mygame.pdb
+C:\Users\2028706\Desktop\mygame\mygame\mygame\bin\Debug\mygame.exe.config
+C:\Users\2028706\Desktop\mygame\mygame\mygame\bin\Debug\mygame.exe
+C:\Users\2028706\Desktop\mygame\mygame\mygame\bin\Debug\mygame.pdb
+C:\Users\2028706\Desktop\mygame\mygame\mygame\obj\Debug\mygame.csproj.AssemblyReference.cache
+C:\Users\2028706\Desktop\mygame\mygame\mygame\obj\Debug\mygame.csproj.CoreCompileInputs.cache
+C:\Users\2028706\Desktop\mygame\mygame\mygame\obj\Debug\mygame.exe
+C:\Users\2028706\Desktop\mygame\mygame\mygame\obj\Debug\mygame.pdb
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\bin\Debug\mygame.exe.config
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\bin\Debug\mygame.exe
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\bin\Debug\mygame.pdb
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\obj\Debug\mygame.csproj.AssemblyReference.cache
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\obj\Debug\mygame.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\obj\Debug\mygame.exe
+C:\Users\Noah\Desktop\mygame (1)\mygame\mygame\obj\Debug\mygame.pdb
