@@ -1,8 +1,8 @@
-# Indiana Jones and The Lost Terminal
+# Indiana Jones Raiders of the Lost Terminal
 
 ## Description
 
-"Indiana Jones and The Lost Terminal" is a dungeon looter game inspired by the iconic Indiana Jones series. This project was my first project in programming, developed as part of a class assignment. The game is a thrilling adventure, where players must navigate through dangerous hallways, avoid traps, collect treasures, and escape within a limited time. 
+"Indiana Jones Raiders of the Lost Terminal" is a dungeon looter game inspired by the iconic Indiana Jones series. This project was my first project in programming, developed as part of a class assignment. The game is a thrilling adventure, where players must navigate through dangerous hallways, avoid traps, collect treasures, and escape within a limited time. 
 
 ## How to Play
 
@@ -15,7 +15,7 @@
 
 ## Installation
 
-To play "Indiana Jones and The Lost Terminal", follow these steps:
+To play "Indiana Jones Raiders of the The Lost Terminal", follow these steps:
 
 1. Clone the repository
 2. Navigate to the project directory
